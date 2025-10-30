@@ -1,0 +1,4 @@
+{
+    "encoder_prompt": "Please encode the sentence in emojis in a way that it is easy for another LLM to translate back to English. Your response will be given to another LLM, who will translate it back to English and you will both be graded on the BLEU score of the translation.\nTranslate this to emoji: \"{sentence}\"",
+    "decoder_prompt": "Another LLM was given the following prompt: Please encode the sentence in emojis in a way that it is easy for another LLM to translate back to English. Your response will be given to another LLM, who will translate it back to English and you will both be graded on the BLEU score of the translation.\n\nTranslate this to emoji: \"[REDACTED]\".\nPlease translate the LLM's output back to English: \"{emoji_string}\""
+  }

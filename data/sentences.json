@@ -1,0 +1,92 @@
+[
+  {
+    "id": "concrete_001",
+    "category": "concrete",
+    "text": "The quick brown fox jumps over the lazy dog."
+  },
+  {
+    "id": "concrete_002",
+    "category": "concrete",
+    "text": "I need to buy milk, eggs, and bread from the supermarket."
+  },
+  {
+    "id": "concrete_003",
+    "category": "concrete",
+    "text": "The children are playing soccer in the park."
+  },
+  {
+    "id":"complex_001",
+    "category": "complex_logic",
+    "text": "She studied hard for the exam, so she is confident she will pass."
+  },
+  {
+    "id": "complex_002",
+    "category": "complex_logic",
+    "text": "Although it was raining, they decided to go for a long walk by the river."
+  },
+  {
+    "id": "complex_003",
+    "category": "complex_logic",
+    "text": "Before you leave for the airport, make sure you packed your passport."
+  },
+  {
+    "id": "abstract_001",
+    "category": "abstract",
+    "text": "Democracy requires active participation from all citizens."
+  },
+  {
+    "id": "abstract_002",
+    "category": "abstract",
+    "text": "I am thinking about the concept of infinity and time."
+  },
+  {
+    "id": "abstract_003",
+    "category": "abstract",
+    "text": "Her research focuses on the intersection of art and technology."
+  },
+  {
+    "id": "emotional_001",
+    "category": "emotional",
+    "text": "I am absolutely thrilled about the good news!"
+  },
+  {
+    "id": "emotional_002",
+    "category": "emotional",
+    "text": "He felt a wave of sadness and nostalgia wash over him."
+  },
+  {
+    "id": "emotional_003",
+    "category": "emotional",
+    "text": "I'm a little bit nervous about the presentation tomorrow."
+  },
+  {
+    "id": "idiomatic_001",
+    "category": "idiomatic",
+    "text": "Let's not beat around the bush and get straight to the point."
+  },
+  {
+    "id": "idiomatic_002",
+    "category": "idiomatic",
+    "text": "He really hit the nail on the head with that comment."
+  },
+  {
+    "id": "idiomatic_003",
+    "category": "idiomatic",
+    "text": "You'll have to bite the bullet and make the difficult decision."
+  },
+  {
+    "id": "figurative_001",
+    "category": "figurative",
+    "text": "His voice was music to her ears."
+  },
+  {
+    "id": "figurative_002",
+    "category": "figurative",
+    "text": "The sun was shining brightly, like a diamond in the sky."
+  },
+  {
+    "id": "figurative_003",
+    "category": "figurative",
+    "text": "The sound of the waves crashing against the shore was like a symphony of nature."
+  }
+]
