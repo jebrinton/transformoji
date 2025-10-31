@@ -1,20 +1,5 @@
 [
   {
-    "id": "concrete_001",
-    "category": "concrete",
-    "text": "The quick brown fox jumps over the lazy dog."
-  },
-  {
-    "id": "concrete_002",
-    "category": "concrete",
-    "text": "I need to buy milk, eggs, and bread from the supermarket."
-  },
-  {
-    "id": "concrete_003",
-    "category": "concrete",
-    "text": "The children are playing soccer in the park."
-  },
-  {
     "id":"complex_001",
     "category": "complex_logic",
     "text": "She studied hard for the exam, so she is confident she will pass."
@@ -27,7 +12,7 @@
   {
     "id": "complex_003",
     "category": "complex_logic",
-    "text": "Before you leave for the airport, make sure you packed your passport."
+    "text": "Before you leave for the airport, make sure to pack your passport."
   },
   {
     "id": "abstract_001",

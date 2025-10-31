@@ -1,0 +1,1267 @@
+[
+  {
+    "sentence": "The kangaroo jumps over the puddle.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🦘➡️💧💦\n\n**Explanation of Encoding Choices:**\n\n*   **🦘:** Represents \"kangaroo\" - a direct and recognizable emoji.\n*   **➡️:** Represents \"jumps over\" - the arrow signifies movement and direction.\n*   **💧💦:** Represents \"puddle\" - using a combination of water droplet emojis to convey the idea of a puddle.\n\nThis encoding prioritizes clarity and direct representation, making it easier for another LLM to understand the relationships between the words.\n",
+    "clean_encoding": "🦘➡️💧💦🦘➡️💧💦"
+  },
+  {
+    "sentence": "I need to buy milk, eggs, and bread from the supermarket.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️➡️🛒🥛🥚🍞➡️🏢\n\n**Explanation of the encoding:**\n\n*   🙋‍♀️: Represents \"I\" (a person needing something)\n*   ➡️: Represents \"need to\" (direction/action)\n*   🛒: Represents \"buy\" (shopping cart)\n*   🥛: Represents \"milk\"\n*   🥚: Represents \"eggs\"\n*   🍞: Represents \"bread\"\n*   ➡️: Represents \"and\" (another item in the list)\n*   🏢: Represents \"supermarket\" (building)\n\nThis encoding is designed to be relatively straightforward for an LLM to interpret, using common and easily recognizable emojis.\n",
+    "clean_encoding": "🙋‍♀️➡️🛒🥛🥚🍞➡️🏢🙋‍♀️➡️🛒🥛🥚🍞➡️🏢"
+  },
+  {
+    "sentence": "The children are playing soccer in the park.",
+    "raw_response": "\n\n👦👧🧒👶⚽🌳🏞️\n",
+    "clean_encoding": "👦👧🧒👶⚽🌳🏞️"
+  },
+  {
+    "sentence": "The dog is chasing the mailman.",
+    "raw_response": "\n\n🐕‍🦺 ➡️ ✉️ 🏃‍♂️\n",
+    "clean_encoding": "🐕‍🦺➡️✉️🏃‍♂️"
+  },
+  {
+    "sentence": "I'm boiling water for pasta.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🙋‍♀️🔥💧➡️🍝\n",
+    "clean_encoding": "🙋‍♀️🔥💧➡️🍝"
+  },
+  {
+    "sentence": "He's charging his phone on the table.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👨➡️🔋🔌📱➡️🪵\n",
+    "clean_encoding": "👨➡️🔋🔌📱➡️🪵"
+  },
+  {
+    "sentence": "Did you remember to lock the door?",
+    "raw_response": "\n\n🚪❓🔑🧠\n",
+    "clean_encoding": "🚪❓🔑🧠"
+  },
+  {
+    "sentence": "My computer is running very slowly.",
+    "raw_response": "\n\n🖥️ ➡️ 🐌 💨\n",
+    "clean_encoding": "🖥️➡️🐌💨"
+  },
+  {
+    "sentence": "Let's order a pizza for dinner.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🗣️🤝🍕➡️🍽️🌃\n",
+    "clean_encoding": "🗣️🤝🍕➡️🍽️🌃"
+  },
+  {
+    "sentence": "The cat is sleeping on the sofa.",
+    "raw_response": "\n\n🐈 😴 ➡️ 🛋️\n",
+    "clean_encoding": "🐈😴➡️🛋️"
+  },
+  {
+    "sentence": "What time does the movie start?",
+    "raw_response": "\n\n⏰❓🎬➡️❓\n",
+    "clean_encoding": "❓🎬➡️❓"
+  },
+  {
+    "sentence": "I'm sending an email to my boss.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🙋‍♀️➡️✉️➡️👨‍💼\n",
+    "clean_encoding": "🙋‍♀️➡️✉️➡️👨‍💼"
+  },
+  {
+    "sentence": "The baby is learning to walk.",
+    "raw_response": "\n\n👶 🚶‍♀️ 📚\n",
+    "clean_encoding": "👶🚶‍♀️📚"
+  },
+  {
+    "sentence": "Can you please turn down the music?",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️❓⬇️🎶❓\n",
+    "clean_encoding": "🙋‍♀️❓⬇️🎶❓"
+  },
+  {
+    "sentence": "He's painting a picture of a mountain.",
+    "raw_response": "\n\n👨‍🎨 ➡️ 🖼️ ⛰️\n",
+    "clean_encoding": "👨‍🎨➡️🖼️⛰️"
+  },
+  {
+    "sentence": "The train is arriving at the station.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n➡️ 🚂 ➡️ 🚉\n",
+    "clean_encoding": "➡️🚂➡️🚉"
+  },
+  {
+    "sentence": "She's waiting for the bus in the cold.",
+    "raw_response": "\n\n👩‍🦰⏳🚌🥶\n",
+    "clean_encoding": "👩‍🦰🚌🥶"
+  },
+  {
+    "sentence": "I need to go to the dentist.",
+    "raw_response": "\n\n🦷➡️🚶‍♀️➡️🏥\n",
+    "clean_encoding": "🦷➡️🚶‍♀️➡️🏥"
+  },
+  {
+    "sentence": "The alarm clock woke me up.",
+    "raw_response": "\n\n⏰ ➡️ 🙋‍♀️ ⬆️\n",
+    "clean_encoding": "➡️🙋‍♀️⬆️"
+  },
+  {
+    "sentence": "We are having a barbecue this weekend.",
+    "raw_response": "\n\n👨‍👩‍👧‍👦 ➡️ 🍖 🔥 🗓️ ➡️ 🔚\n",
+    "clean_encoding": "👨‍👩‍👧‍👦➡️🍖🔥🗓️➡️🔚"
+  },
+  {
+    "sentence": "The gardener is planting new seeds.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧑‍🌾 🌱 ➡️ 📦\n",
+    "clean_encoding": "🧑‍🌾🌱➡️📦"
+  },
+  {
+    "sentence": "My flight was delayed by two hours.",
+    "raw_response": "\n\n✈️ ➡️ ⏳ 2️⃣ ⏰\n",
+    "clean_encoding": "✈️➡️️"
+  },
+  {
+    "sentence": "He is fixing the broken chair.",
+    "raw_response": "\n\n👨‍🔧🛠️💔🪑\n",
+    "clean_encoding": "👨‍🔧🛠️💔🪑"
+  },
+  {
+    "sentence": "The musician is playing the guitar.",
+    "raw_response": "\n\n🎸👨‍🎤➡️🎶\n",
+    "clean_encoding": "🎸👨‍🎤➡️🎶"
+  },
+  {
+    "sentence": "I'm listening to a podcast.",
+    "raw_response": "\n\n👤👂➡️🎙️\n",
+    "clean_encoding": "👤👂➡️🎙️"
+  },
+  {
+    "sentence": "She dropped her keys on the floor.",
+    "raw_response": "\n\n🔑 ⬇️ 👧 🪵 ⬇️\n",
+    "clean_encoding": "🔑⬇️👧🪵⬇️"
+  },
+  {
+    "sentence": "Where did I put my glasses?",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n📍❓🤔👓❓\n",
+    "clean_encoding": "📍❓🤔👓❓"
+  },
+  {
+    "sentence": "The moon is very bright tonight.",
+    "raw_response": "\n\n🌙 ➡️ ✨ 💡 🌃\n",
+    "clean_encoding": "🌙➡️✨💡🌃"
+  },
+  {
+    "sentence": "My cat knocked over the vase.",
+    "raw_response": "\n\n🐈 ➡️ 🏺 ⬇️\n",
+    "clean_encoding": "🐈➡️🏺⬇️"
+  },
+  {
+    "sentence": "Can you help me move this couch?",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🙋❓🤝➡️🛋️\n",
+    "clean_encoding": "🙋❓🤝➡️🛋️"
+  },
+  {
+    "sentence": "The restaurant is closed on Mondays.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🏠🚫🗓️➡️1️⃣\n",
+    "clean_encoding": "🏠🚫🗓️➡️️"
+  },
+  {
+    "sentence": "I lost my phone at the gym.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n👤➡️📱❌🏋️‍♂️\n",
+    "clean_encoding": "👤➡️📱❌🏋️‍♂️"
+  },
+  {
+    "sentence": "She's painting the bedroom wall.",
+    "raw_response": "\n\n👩‍🎨 ➡️ 🖼️ ➡️ 🛌 🧱\n",
+    "clean_encoding": "👩‍🎨➡️🖼️➡️🛌🧱"
+  },
+  {
+    "sentence": "Do you want to grab coffee later?",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋❓☕️➡️🕰️❓\n",
+    "clean_encoding": "🙋❓☕️➡️🕰️❓"
+  },
+  {
+    "sentence": "The train was delayed by twenty minutes.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🚂 ⏳️ ➡️ 2️⃣0️⃣ ⏱️\n",
+    "clean_encoding": "🚂️➡️️️️"
+  },
+  {
+    "sentence": "I'm cooking pasta for dinner.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️ ➡️ 🍳🍝 🌃\n",
+    "clean_encoding": "🙋‍♀️➡️🍳🍝🌃"
+  },
+  {
+    "sentence": "He fixed the broken door handle.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👨‍🔧🛠️🚪➡️✅\n",
+    "clean_encoding": "👨‍🔧🛠️🚪➡️✅"
+  },
+  {
+    "sentence": "The garden needs more sunlight.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🏡 ➡️ ☀️➕\n",
+    "clean_encoding": "🏡➡️☀️➕"
+  },
+  {
+    "sentence": "We saw a movie last night.",
+    "raw_response": "\n\n🎬 👁️ 🌃\n",
+    "clean_encoding": "🎬👁️🌃"
+  },
+  {
+    "sentence": "Are you coming to the party?",
+    "raw_response": "\n\n🤔➡️❓🎉❓\n",
+    "clean_encoding": "🤔➡️❓🎉❓"
+  },
+  {
+    "sentence": "I found my keys under the bed.",
+    "raw_response": "\n\n🔑 🔎 🛌 ⬇️\n",
+    "clean_encoding": "🔑🔎🛌⬇️"
+  },
+  {
+    "sentence": "The coffee is too hot to drink.",
+    "raw_response": "\n\n☕🔥🚫🥤\n",
+    "clean_encoding": "☕🔥🚫🥤"
+  },
+  {
+    "sentence": "She's learning to play guitar.",
+    "raw_response": "\n\n👩‍🏫📚🎸🎶\n",
+    "clean_encoding": "👩‍🏫📚🎸🎶"
+  },
+  {
+    "sentence": "Did you finish your homework?",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n❓➡️ 🧑‍🎓 📚 ✅ ?\n",
+    "clean_encoding": "❓➡️🧑‍🎓📚✅"
+  },
+  {
+    "sentence": "The bird flew away quickly.",
+    "raw_response": "\n\n🐦➡️💨\n",
+    "clean_encoding": "🐦➡️💨"
+  },
+  {
+    "sentence": "I need to do laundry tomorrow.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️➡️🧺🗓️➡️☀️\n",
+    "clean_encoding": "🙋‍♀️➡️🧺🗓️➡️☀️"
+  },
+  {
+    "sentence": "The store opened at ten o'clock.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🏪 ➡️ ⏰ 1️⃣0️⃣ 🕐\n",
+    "clean_encoding": "🏪➡️️️🕐"
+  },
+  {
+    "sentence": "He's wearing a blue jacket.",
+    "raw_response": "\n\n👤➡️👕🟦\n",
+    "clean_encoding": "👤➡️👕🟦"
+  },
+  {
+    "sentence": "We're meeting at the library at three.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🧑‍🤝‍🧑 📍 📚 🕒 3️⃣\n",
+    "clean_encoding": "🧑‍🤝‍🧑📍📚🕒️"
+  },
+  {
+    "sentence": "The package arrived yesterday.",
+    "raw_response": "\n\n📦➡️🗓️➡️➡️\n",
+    "clean_encoding": "📦➡️🗓️➡️➡️"
+  },
+  {
+    "sentence": "I burned my hand on the stove.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️🔥✋🤕\n\n**Explanation of the encoding:**\n\n*   🙋‍♀️: Represents \"I\" (a person)\n*   🔥: Represents \"burned\" (fire)\n*   ✋: Represents \"hand\"\n*   🤕: Represents \"on the stove\" (injured/ouch, implying contact with a hot surface)\n\nThis encoding prioritizes clarity and direct representation of the key elements of the sentence.\n",
+    "clean_encoding": "🙋‍♀️🔥✋🤕🙋‍♀️🔥✋🤕"
+  },
+  {
+    "sentence": "The dog is sleeping on the couch.",
+    "raw_response": "\n\n🐕 😴 ➡️ 🛋️\n",
+    "clean_encoding": "🐕😴➡️🛋️"
+  },
+  {
+    "sentence": "Can I borrow your umbrella?",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🙋‍♀️❓ ☔ ➡️ 🤝❓\n",
+    "clean_encoding": "🙋‍♀️❓☔➡️🤝❓"
+  },
+  {
+    "sentence": "The cat is sleeping on the couch.",
+    "raw_response": "\n\n🐈 😴 ➡️ 🛋️\n",
+    "clean_encoding": "🐈😴➡️🛋️"
+  },
+  {
+    "sentence": "He’s fixing his bike in the garage.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👨➡️🛠️🚲➡️🏠🚗\n\n**Explanation of the encoding:**\n\n*   👨: Represents \"He\" (a male person)\n*   ➡️: Represents \"is\" (a directional arrow indicating action)\n*   🛠️: Represents \"fixing\" (a tool, implying repair)\n*   🚲: Represents \"bike\"\n*   ➡️: Represents \"in\" (another directional arrow indicating location)\n*   🏠🚗: Represents \"garage\" (a house combined with a car, a common visual representation of a garage)\n\nThis encoding prioritizes clarity and uses common, easily recognizable emojis. The directional arrows help establish the relationships between the elements of the sentence.\n",
+    "clean_encoding": "👨➡️🛠️🚲➡️🏠🚗👨➡️🛠️🚲➡️🏠🚗"
+  },
+  {
+    "sentence": "I dropped my phone on the floor.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️ ⬇️ 📱 ➡️ 🕳️ 🏢\n",
+    "clean_encoding": "🙋‍♀️⬇️📱➡️🕳️🏢"
+  },
+  {
+    "sentence": "She’s painting her nails red.",
+    "raw_response": "\n\n👩‍🎨💅🔴\n",
+    "clean_encoding": "👩‍🎨💅🔴"
+  },
+  {
+    "sentence": "The bus stopped at the corner.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n➡️🚌🛑📍\n",
+    "clean_encoding": "➡️🚌🛑📍"
+  },
+  {
+    "sentence": "Let’s go hiking this weekend.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🚶‍♀️ ➡️ ⛰️ 🗓️ ➡️ ☀️ 🌧️\n",
+    "clean_encoding": "🚶‍♀️➡️⛰️🗓️➡️☀️🌧️"
+  },
+  {
+    "sentence": "He forgot his wallet at home.",
+    "raw_response": "\n\n🏠 👤 ➡️ 🚫 👛\n",
+    "clean_encoding": "🏠👤➡️🚫👛"
+  },
+  {
+    "sentence": "The dog is barking at the mailman.",
+    "raw_response": "\n\n🐕 🗣️ ➡️ ✉️ 🧑‍🦰\n",
+    "clean_encoding": "🐕🗣️➡️✉️🧑‍🦰"
+  },
+  {
+    "sentence": "Can you open the window?",
+    "raw_response": "\n\n🚪❓ 🙋‍♀️ ➡️ 🌬️\n",
+    "clean_encoding": "🚪❓🙋‍♀️➡️🌬️"
+  },
+  {
+    "sentence": "We’re watching a movie tonight.",
+    "raw_response": "\n\n🎬 🧍‍♀️🧍‍♂️ 👁️ 🎥 🌃\n",
+    "clean_encoding": "🎬🧍‍♀️🧍‍♂️👁️🎥🌃"
+  },
+  {
+    "sentence": "I’m charging my laptop.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🙋‍♀️ ➡️ 🔋 💻\n",
+    "clean_encoding": "🙋‍♀️➡️🔋💻"
+  },
+  {
+    "sentence": "She’s cutting vegetables for dinner.",
+    "raw_response": "\n\n👩‍🦰🔪🥕🥦🧅🍽️🌃\n",
+    "clean_encoding": "👩‍🦰🔪🥕🥦🧅🍽️🌃"
+  },
+  {
+    "sentence": "The train leaves in five minutes.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🚂 ➡️ ⏰ 5️⃣ ⏱️\n",
+    "clean_encoding": "🚂➡️️️"
+  },
+  {
+    "sentence": "They’re building a new bridge downtown.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🧍‍♂️🧍‍♀️➡️🏗️🌉🏙️\n",
+    "clean_encoding": "🧍‍♂️🧍‍♀️➡️🏗️🌉🏙️"
+  },
+  {
+    "sentence": "He’s playing guitar in the living room.",
+    "raw_response": "\n\n👤➡️🎸➡️🏠🛋️\n",
+    "clean_encoding": "👤➡️🎸➡️🏠🛋️"
+  },
+  {
+    "sentence": "I spilled coffee on my shirt.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️ ➡️ ☕ ➡️ 👕\n",
+    "clean_encoding": "🙋‍♀️➡️☕➡️👕"
+  },
+  {
+    "sentence": "Let’s meet at the library.",
+    "raw_response": "\n\n📚🤝📍\n",
+    "clean_encoding": "📚🤝📍"
+  },
+  {
+    "sentence": "She’s writing a letter to her friend.",
+    "raw_response": "\n\n👩‍📭✍️💌🫂\n",
+    "clean_encoding": "👩‍📭✍️💌🫂"
+  },
+  {
+    "sentence": "Turn off the lights, please.",
+    "raw_response": "\n\n💡➡️ ❌, 🙏.\n",
+    "clean_encoding": "💡➡️❌🙏"
+  },
+  {
+    "sentence": "The pizza smells amazing.",
+    "raw_response": "\n\n🍕👃✨\n",
+    "clean_encoding": "🍕👃✨"
+  },
+  {
+    "sentence": "He’s jogging around the lake.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👨➡️🏃‍♂️ 🏞️ 🔄\n",
+    "clean_encoding": "👨➡️🏃‍♂️🏞️🔄"
+  },
+  {
+    "sentence": "We found a wallet on the sidewalk.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🧍👥🔎💰➡️🚶‍♂️\n\n**Explanation of the encoding:**\n\n*   🧍: Represents \"We\" (people)\n*   👥: Represents \"found\" (group of people, implying discovery)\n*   🔎: Represents \"a\" (magnifying glass, searching)\n*   💰: Represents \"wallet\" (money)\n*   ➡️: Represents \"on\" (arrow pointing)\n*   🚶‍♂️: Represents \"sidewalk\" (person walking)\n\nThis encoding prioritizes clarity and a direct mapping between words and emojis, making it easier for another LLM to decode.\n",
+    "clean_encoding": "🧍👥🔎💰➡️🚶‍♂️🧍👥🔎💰➡️🚶‍♂️"
+  },
+  {
+    "sentence": "She bought flowers at the market.",
+    "raw_response": "\n\n👧➡️💐🛍️📍\n",
+    "clean_encoding": "👧➡️💐🛍️📍"
+  },
+  {
+    "sentence": "It’s snowing outside.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🏠 ➡️ ❄️ 🌬️\n",
+    "clean_encoding": "🏠➡️❄️🌬️"
+  },
+  {
+    "sentence": "He’s making coffee for everyone.",
+    "raw_response": "\n\n👨‍🍳☕➡️👥\n",
+    "clean_encoding": "👨‍🍳☕➡️👥"
+  },
+  {
+    "sentence": "The cat chased the laser pointer.",
+    "raw_response": "\n\n🐱 ➡️ 🔴⚫️\n",
+    "clean_encoding": "🐱➡️🔴⚫️"
+  },
+  {
+    "sentence": "I planted tomatoes in the garden.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️ ➡️ 🍅 🪴 🏞️\n",
+    "clean_encoding": "🙋‍♀️➡️🍅🪴🏞️"
+  },
+  {
+    "sentence": "He's fixing the leaky faucet.",
+    "raw_response": "\n\n👨‍🔧 🛠️ 💧 🚰\n",
+    "clean_encoding": "👨‍🔧🛠️💧🚰"
+  },
+  {
+    "sentence": "We watched fireworks at night.",
+    "raw_response": "\n\n🌃🎆👀\n",
+    "clean_encoding": "🌃🎆👀"
+  },
+  {
+    "sentence": "She drew a picture of a mountain.",
+    "raw_response": "\n\n🏔️👩‍🎨🖼️\n",
+    "clean_encoding": "🏔️👩‍🎨🖼️"
+  },
+  {
+    "sentence": "The dog fetched the ball.",
+    "raw_response": "\n\n🐕➡️⚽\n",
+    "clean_encoding": "🐕➡️⚽"
+  },
+  {
+    "sentence": "I'm learning to play guitar.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️ ➡️ 📚 🎸\n",
+    "clean_encoding": "🙋‍♀️➡️📚🎸"
+  },
+  {
+    "sentence": "They hiked up the trail.",
+    "raw_response": "\n\n⛰️🚶‍♂️⬆️🛤️\n",
+    "clean_encoding": "⛰️🚶‍♂️⬆️🛤️"
+  },
+  {
+    "sentence": "He brewed fresh coffee.",
+    "raw_response": "\n\n👨‍🍳☕➡️🌱\n",
+    "clean_encoding": "👨‍🍳☕➡️🌱"
+  },
+  {
+    "sentence": "The birds built a nest.",
+    "raw_response": "\n\n🐦 ➡️ 🏡\n",
+    "clean_encoding": "🐦➡️🏡"
+  },
+  {
+    "sentence": "She's organizing the closet.",
+    "raw_response": "\n\n👩‍💼 ➡️ 📦 🧹\n",
+    "clean_encoding": "👩‍💼➡️📦🧹"
+  },
+  {
+    "sentence": "We rode bikes around the lake.",
+    "raw_response": "\n\n🚲 ➡️ 🏞️ 🔄\n",
+    "clean_encoding": "🚲➡️🏞️🔄"
+  },
+  {
+    "sentence": "I checked the mail box.",
+    "raw_response": "\n\n📦➡️👁️\n",
+    "clean_encoding": "📦➡️👁️"
+  },
+  {
+    "sentence": "The chef chopped vegetables.",
+    "raw_response": "\n\n👨‍🍳🔪🥕🥦\n",
+    "clean_encoding": "👨‍🍳🔪🥕🥦"
+  },
+  {
+    "sentence": "They're building a sandcastle.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧍‍♂️🧍‍♀️ ➡️ 🏗️ 🏖️ 🏰\n",
+    "clean_encoding": "🧍‍♂️🧍‍♀️➡️🏗️🏖️🏰"
+  },
+  {
+    "sentence": "He tuned the radio station.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n👨‍🦰 🛠️ 📻 📍\n",
+    "clean_encoding": "👨‍🦰🛠️📻📍"
+  },
+  {
+    "sentence": "The flowers bloomed in spring.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🌷➡️🌸🗓️➡️🌱\n",
+    "clean_encoding": "🌷➡️🌸🗓️➡️🌱"
+  },
+  {
+    "sentence": "I'm washing the car.",
+    "raw_response": "\n\n🚗🧼🧽🙋‍♀️\n",
+    "clean_encoding": "🚗🧼🧽🙋‍♀️"
+  },
+  {
+    "sentence": "She folded the laundry.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n👩➡️🧺👕👖➡️🧺✅\n",
+    "clean_encoding": "👩➡️🧺👕👖➡️🧺✅"
+  },
+  {
+    "sentence": "We picked apples from the tree.",
+    "raw_response": "\n\n🍎 ➡️ 🧑‍🌾 🌳\n",
+    "clean_encoding": "🍎➡️🧑‍🌾🌳"
+  },
+  {
+    "sentence": "The mechanic changed the oil.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👨‍🔧🔄🛢️\n",
+    "clean_encoding": "👨‍🔧🔄🛢️"
+  },
+  {
+    "sentence": "He's reading a newspaper.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👨➡️📰\n",
+    "clean_encoding": "👨➡️📰"
+  },
+  {
+    "sentence": "They danced at the party.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧍‍♂️💃🎉🥳\n",
+    "clean_encoding": "🧍‍♂️💃🎉🥳"
+  },
+  {
+    "sentence": "I vacuumed the floor.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️ ➡️ 🧹 ➡️ 🕳️\n",
+    "clean_encoding": "🙋‍♀️➡️🧹➡️🕳️"
+  },
+  {
+    "sentence": "The painter mixed colors.",
+    "raw_response": "\n\n🎨🧑‍🎨 🤝 🌈\n",
+    "clean_encoding": "🎨🧑‍🎨🤝🌈"
+  },
+  {
+    "sentence": "We're grilling burgers outside.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🧑‍🤝‍🧑➡️🍔🔥🏡\n\n**Explanation of the encoding:**\n\n*   🧑‍🤝‍🧑: Represents \"We're\" (people together)\n*   ➡️: Represents \"grilling\" (arrow indicating action)\n*   🍔: Represents \"burgers\"\n*   🔥: Represents \"outside\" (fire, often associated with outdoor cooking)\n*   🏡: Represents \"outside\" (home, implying outdoors)\n\n**Rationale for this encoding:**\n\nThis encoding prioritizes clarity and direct representation of the words. It avoids overly complex or ambiguous emoji combinations. The repetition of \"outside\" with 🔥 and 🏡 is intentional to reinforce the meaning, as \"outside\" can be a subtle concept to convey with a single emoji. The arrow clearly indicates the action of grilling.\n",
+    "clean_encoding": "🧑‍🤝‍🧑➡️🍔🔥🏡🧑‍🤝‍🧑➡️🍔🔥🏡🔥🏡"
+  },
+  {
+    "sentence": "The barista steamed milk for lattes.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧑‍🍳➡️🥛➡️♨️➡️☕\n",
+    "clean_encoding": "🧑‍🍳➡️🥛➡️♨️➡️☕"
+  },
+  {
+    "sentence": "He tightened the bike chain.",
+    "raw_response": "\n\n🚲⛓️💪\n",
+    "clean_encoding": "🚲⛓️💪"
+  },
+  {
+    "sentence": "She scanned the QR code.",
+    "raw_response": "\n\n👩‍💻 🔎 ➡️ 🔳\n",
+    "clean_encoding": "👩‍💻🔎➡️🔳"
+  },
+  {
+    "sentence": "We carved pumpkins for Halloween.",
+    "raw_response": "\n\n🎃 🔪 ➡️ 🎃👻 🗓️ 👻\n",
+    "clean_encoding": "🎃🔪➡️🎃👻🗓️👻"
+  },
+  {
+    "sentence": "The toddler stacked wooden blocks.",
+    "raw_response": "\n\n🧱👶⬆️🪵📦\n",
+    "clean_encoding": "🧱👶⬆️🪵📦"
+  },
+  {
+    "sentence": "I charged my phone overnight.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🙋‍♀️ 🔌 📱 🌃\n",
+    "clean_encoding": "🙋‍♀️🔌📱🌃"
+  },
+  {
+    "sentence": "They inflated the air mattress.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧍‍♂️ ➕ 🎈➡️⬆️ 🛌\n",
+    "clean_encoding": "🧍‍♂️➕🎈➡️⬆️🛌"
+  },
+  {
+    "sentence": "He threaded the needle.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👨➡️🧵🪡\n",
+    "clean_encoding": "👨➡️🧵🪡"
+  },
+  {
+    "sentence": "The drone hovered above the field.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🚁➡️🌾⬆️\n",
+    "clean_encoding": "🚁➡️🌾⬆️"
+  },
+  {
+    "sentence": "She clipped coupons from the flyer.",
+    "raw_response": "\n\n👩‍🦰✂️🎫📰➡️\n",
+    "clean_encoding": "👩‍🦰✂️🎫📰➡️"
+  },
+  {
+    "sentence": "We strung fairy lights on the porch.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️ ➡️ 🔗✨💡🏠\n",
+    "clean_encoding": "🙋‍♀️➡️🔗✨💡🏠"
+  },
+  {
+    "sentence": "The locksmith cut a new key.",
+    "raw_response": "\n\n🔑 🧑‍🔧 ✂️ 🔑 🆕\n",
+    "clean_encoding": "🔑🧑‍🔧✂️🔑🆕"
+  },
+  {
+    "sentence": "I booked a haircut online.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️ ➡️ ✂️ 💻\n",
+    "clean_encoding": "🙋‍♀️➡️✂️💻"
+  },
+  {
+    "sentence": "He refilled the bird feeder.",
+    "raw_response": "\n\n🐦➡️➕\n",
+    "clean_encoding": "🐦➡️➕"
+  },
+  {
+    "sentence": "The kids flew kites in the wind.",
+    "raw_response": "\n\n👦👧🪁💨⬆️\n",
+    "clean_encoding": "👦👧🪁💨⬆️"
+  },
+  {
+    "sentence": "She scanned boarding passes at the gate.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👩‍💼 🔎 🎫 ➡️ 🚪\n",
+    "clean_encoding": "👩‍💼🔎🎫➡️🚪"
+  },
+  {
+    "sentence": "We composted vegetable scraps.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧑‍🤝‍🧑 ➡️ ♻️ 🥕🥬🧅\n",
+    "clean_encoding": "🧑‍🤝‍🧑➡️♻️🥕🥬🧅"
+  },
+  {
+    "sentence": "The plumber unclogged the drain.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👨‍🔧➡️🚿🚽➡️🔓\n",
+    "clean_encoding": "👨‍🔧➡️🚿🚽➡️🔓"
+  },
+  {
+    "sentence": "He synced the smartwatch.",
+    "raw_response": "\n\n⌚ ➡️ 📱\n",
+    "clean_encoding": "⌚➡️📱"
+  },
+  {
+    "sentence": "They assembled flat-pack furniture.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧍‍♂️🧍‍♀️ ➕ 🛠️📦➡️ 🛋️🪑🪿\n",
+    "clean_encoding": "🧍‍♂️🧍‍♀️➕🛠️📦➡️🛋️🪑🪿"
+  },
+  {
+    "sentence": "I renewed my library books.",
+    "raw_response": "\n\n📚➡️🙋‍♀️📚\n",
+    "clean_encoding": "📚➡️🙋‍♀️📚"
+  },
+  {
+    "sentence": "The fisherman cast the line.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧑‍🌾 🎣 ➡️ 🧵\n",
+    "clean_encoding": "🧑‍🌾🎣➡️🧵"
+  },
+  {
+    "sentence": "She tuned the violin strings.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👩‍🦰 ➡️ 🎻 🛠️\n",
+    "clean_encoding": "👩‍🦰➡️🎻🛠️"
+  },
+  {
+    "sentence": "We recycled glass bottles.",
+    "raw_response": "\n\n♻️ ➡️ 🍾\n",
+    "clean_encoding": "♻️➡️🍾"
+  },
+  {
+    "sentence": "The courier delivered a package.",
+    "raw_response": "\n\n📦➡️🧑‍💼📦\n",
+    "clean_encoding": "📦➡️🧑‍💼📦"
+  },
+  {
+    "sentence": "He calibrated the thermostat.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n👨‍🦱 ⚙️🌡️ 📏\n",
+    "clean_encoding": "👨‍🦱⚙️🌡️📏"
+  },
+  {
+    "sentence": "The beekeeper harvested honey.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧑‍🌾🍯➡️🍯\n",
+    "clean_encoding": "🧑‍🌾🍯➡️🍯"
+  },
+  {
+    "sentence": "I printed the concert tickets.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🙋‍♀️ ➡️ 🎫 🎶 🎟️\n",
+    "clean_encoding": "🙋‍♀️➡️🎫🎶🎟️"
+  },
+  {
+    "sentence": "They paddled the canoe downstream.",
+    "raw_response": "\n\n🚣‍♀️🛶⬇️🌊\n",
+    "clean_encoding": "🚣‍♀️🛶⬇️🌊"
+  },
+  {
+    "sentence": "She frosted the birthday cake.",
+    "raw_response": "\n\n🎂👩‍🍳🎨\n",
+    "clean_encoding": "🎂👩‍🍳🎨"
+  },
+  {
+    "sentence": "We patched the bike tire.",
+    "raw_response": "\n\n🚲🩹🛠️\n",
+    "clean_encoding": "🚲🩹🛠️"
+  },
+  {
+    "sentence": "The jeweler polished the ring.",
+    "raw_response": "\n\n💍✨🛠️\n",
+    "clean_encoding": "💍✨🛠️"
+  },
+  {
+    "sentence": "He uploaded vacation photos.",
+    "raw_response": "\n\n👨‍🚀 ⬆️ 📸 🏝️\n",
+    "clean_encoding": "👨‍🚀⬆️📸🏝️"
+  },
+  {
+    "sentence": "The gardener pruned the roses.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧑‍🌾 ✂️ 🌹\n",
+    "clean_encoding": "🧑‍🌾✂️🌹"
+  },
+  {
+    "sentence": "I scheduled a dentist appointment.",
+    "raw_response": "\n\n🗓️ ➡️ 🦷 👨‍⚕️ ⏰\n",
+    "clean_encoding": "🗓️➡️🦷👨‍⚕️"
+  },
+  {
+    "sentence": "They rolled sushi at home.",
+    "raw_response": "\n\n🏠🍣🥢👨‍🍳\n",
+    "clean_encoding": "🏠🍣🥢👨‍🍳"
+  },
+  {
+    "sentence": "The pilot taxied the plane.",
+    "raw_response": "\n\n✈️ ➡️ 🚕\n",
+    "clean_encoding": "✈️➡️🚕"
+  },
+  {
+    "sentence": "She embroidered a pillowcase.",
+    "raw_response": "\n\n👩‍🎨🧵🛏️🆑\n",
+    "clean_encoding": "👩‍🎨🧵🛏️🆑"
+  },
+  {
+    "sentence": "We fed coins into the meter.",
+    "raw_response": "\n\n🪙➡️👤➡️🪙🪙➡️🔢\n",
+    "clean_encoding": "🪙➡️👤➡️🪙🪙➡️🔢"
+  },
+  {
+    "sentence": "The vet vaccinated the puppy.",
+    "raw_response": "\n\n🐶 ➡️ 💉 ✅\n",
+    "clean_encoding": "🐶➡️💉✅"
+  },
+  {
+    "sentence": "He sharpened the kitchen knives.",
+    "raw_response": "\n\n👨‍🍳🔪➡️🔪\n",
+    "clean_encoding": "👨‍🍳🔪➡️🔪"
+  },
+  {
+    "sentence": "The barista tamped espresso grounds.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧑‍🍳☕️➡️📦\n",
+    "clean_encoding": "🧑‍🍳☕️➡️📦"
+  },
+  {
+    "sentence": "I zipped up my jacket.",
+    "raw_response": "\n\n🧥⬆️\n",
+    "clean_encoding": "🧥⬆️"
+  },
+  {
+    "sentence": "They launched paper boats.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🧍‍♂️🧍‍♀️🚀 📄🛶\n\n**Explanation of the encoding:**\n\n*   🧍‍♂️🧍‍♀️: Represents \"They\" (generic people)\n*   🚀: Represents \"launched\" (suggests a launch or sending off)\n*   📄: Represents \"paper\"\n*   🛶: Represents \"boats\" (a boat is a canoe, which is close enough to a paper boat)\n\nThis encoding prioritizes clarity and ease of translation for another LLM.\n",
+    "clean_encoding": "🧍‍♂️🧍‍♀️🚀📄🛶🧍‍♂️🧍‍♀️🚀📄🛶"
+  },
+  {
+    "sentence": "The tailor hemmed the pants.",
+    "raw_response": "\n\n🧵🪡👖\n",
+    "clean_encoding": "🧵🪡👖"
+  },
+  {
+    "sentence": "We defrosted the freezer.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🧍‍♂️ ➡️ 🧊 🥶 ➡️ 🌡️ ⬆️\n",
+    "clean_encoding": "🧍‍♂️➡️🧊🥶➡️🌡️⬆️"
+  },
+  {
+    "sentence": "He replaced the light bulb.",
+    "raw_response": "\n\n💡➡️🔄💡\n",
+    "clean_encoding": "💡➡️🔄💡"
+  },
+  {
+    "sentence": "She scanned groceries at checkout.",
+    "raw_response": "\n\n👩‍🌾 🔎 🛒 ➡️ 🧾\n",
+    "clean_encoding": "👩‍🌾🔎🛒➡️🧾"
+  },
+  {
+    "sentence": "The kids built a blanket fort.",
+    "raw_response": "\n\n👦👧🧒🏗️🛌🏠\n",
+    "clean_encoding": "👦👧🧒🏗️🛌🏠"
+  },
+  {
+    "sentence": "I topped up the metro card.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋‍♀️➡️⬆️💳🚇\n",
+    "clean_encoding": "🙋‍♀️➡️⬆️💳🚇"
+  },
+  {
+    "sentence": "Is the door open?",
+    "raw_response": "\n\n🚪❓\n",
+    "clean_encoding": "🚪❓"
+  },
+  {
+    "sentence": "What color is the sky?",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n❓ 🎨 ➡️ ☁️❓\n",
+    "clean_encoding": "❓🎨➡️☁️❓"
+  },
+  {
+    "sentence": "I prefer red apples.",
+    "raw_response": "\n\n🍎❤️➡️🍏\n",
+    "clean_encoding": "🍎❤️➡️🍏"
+  },
+  {
+    "sentence": "The store is on the corner.",
+    "raw_response": "\n\n🧱🏢➡️📍\n",
+    "clean_encoding": "🧱🏢➡️📍"
+  },
+  {
+    "sentence": "The sun is shining brightly.",
+    "raw_response": "\n\n☀️ ➡️ ✨ 💡\n",
+    "clean_encoding": "☀️➡️✨💡"
+  },
+  {
+    "sentence": "The leaves turned yellow.",
+    "raw_response": "\n\n🍂 ➡️ 🟡.\n",
+    "clean_encoding": "🍂➡️🟡"
+  },
+  {
+    "sentence": "There are three chairs.",
+    "raw_response": "\n\n🪑 🪑 🪑 ➡️ 3️⃣\n",
+    "clean_encoding": "🪑🪑🪑➡️️"
+  },
+  {
+    "sentence": "The battery is dead.",
+    "raw_response": "\n\n🔋 💀\n",
+    "clean_encoding": "🔋💀"
+  },
+  {
+    "sentence": "My feet hurt from walking.",
+    "raw_response": "\n\nHere's the emoji encoding:\n\n🧍‍♂️🦶🤕🚶‍♀️\n",
+    "clean_encoding": "🧍‍♂️🦶🤕🚶‍♀️"
+  },
+  {
+    "sentence": "The screen shows a map.",
+    "raw_response": "\n\n📺 ➡️ 🗺️\n",
+    "clean_encoding": "📺➡️🗺️"
+  },
+  {
+    "sentence": "Are you feeling cold?",
+    "raw_response": "\n\n🧊❓🥶❓\n",
+    "clean_encoding": "🧊❓🥶❓"
+  },
+  {
+    "sentence": "Where did you put the keys?",
+    "raw_response": "\n\n🔑❓➡️ 📍❓\n",
+    "clean_encoding": "🔑❓➡️📍❓"
+  },
+  {
+    "sentence": "This box is heavy and square.",
+    "raw_response": "\n\n📦➡️🏋️‍♂️➕◼️\n",
+    "clean_encoding": "📦➡️🏋️‍♂️➕️"
+  },
+  {
+    "sentence": "Turn left at the stop sign.",
+    "raw_response": "\n\n🛑 ⬅️\n",
+    "clean_encoding": "🛑⬅️"
+  },
+  {
+    "sentence": "Dark clouds cover the sky.",
+    "raw_response": "\n\n☁️ ➡️ 🌌\n",
+    "clean_encoding": "☁️➡️🌌"
+  },
+  {
+    "sentence": "His eyes are blue.",
+    "raw_response": "\n\n👤👁️💙\n",
+    "clean_encoding": "👤👁️💙"
+  },
+  {
+    "sentence": "I have five dollars.",
+    "raw_response": "\n\n💵 🙋 🖐️ 💲\n",
+    "clean_encoding": "💵🙋🖐️💲"
+  },
+  {
+    "sentence": "The door is locked.",
+    "raw_response": "\n\n🚪🔒\n",
+    "clean_encoding": "🚪🔒"
+  },
+  {
+    "sentence": "I smell smoke in the air.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👃💨🔥➡️\n",
+    "clean_encoding": "👃💨🔥➡️"
+  },
+  {
+    "sentence": "The camera flashes brightly.",
+    "raw_response": "\n\n📸 ➡️ ✨ 💡\n",
+    "clean_encoding": "📸➡️✨💡"
+  },
+  {
+    "sentence": "Does this shirt fit?",
+    "raw_response": "\n\n👕❓🤔\n",
+    "clean_encoding": "👕❓🤔"
+  },
+  {
+    "sentence": "How many apples are there?",
+    "raw_response": "\n\n🍎❓🔢\n",
+    "clean_encoding": "🍎❓🔢"
+  },
+  {
+    "sentence": "The water is cold and clear.",
+    "raw_response": "\n\n🌊 🧊 💧 & 👁️\n",
+    "clean_encoding": "🌊🧊💧👁️"
+  },
+  {
+    "sentence": "The bathroom is upstairs.",
+    "raw_response": "\n\n🚏➡️⬆️\n",
+    "clean_encoding": "🚏➡️⬆️"
+  },
+  {
+    "sentence": "The wind blows strongly.",
+    "raw_response": "\n\n🌬️💨💪\n",
+    "clean_encoding": "🌬️💨💪"
+  },
+  {
+    "sentence": "The car is painted black.",
+    "raw_response": "\n\n🚗 🎨 ⚫\n",
+    "clean_encoding": "🚗🎨⚫"
+  },
+  {
+    "sentence": "The clock shows ten o'clock.",
+    "raw_response": "\n\n🕰️ ➡️ 🔟 ⏰\n",
+    "clean_encoding": "🕰️➡️🔟"
+  },
+  {
+    "sentence": "The window is cracked.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🏠➡️ 🪟 💔\n",
+    "clean_encoding": "🏠➡️🪟💔"
+  },
+  {
+    "sentence": "The music sounds loud.",
+    "raw_response": "\n\n🎶🔊📢\n",
+    "clean_encoding": "🎶🔊📢"
+  },
+  {
+    "sentence": "The keyboard types letters.",
+    "raw_response": "\n\n⌨️ ➡️ 🅰️🅱️🔤\n",
+    "clean_encoding": "️➡️🅰️🅱️🔤"
+  },
+  {
+    "sentence": "Can you see the mountain?",
+    "raw_response": "\n\n⛰️❓👀\n",
+    "clean_encoding": "⛰️❓👀"
+  },
+  {
+    "sentence": "When does the bus arrive?",
+    "raw_response": "\n\n⏰ ➡️ 🚌 ❓\n",
+    "clean_encoding": "➡️🚌❓"
+  },
+  {
+    "sentence": "Her hair is long and curly.",
+    "raw_response": "\n\n👧 ➡️ 💇‍♀️ 📏 ⬆️ 🌀\n",
+    "clean_encoding": "👧➡️💇‍♀️📏⬆️🌀"
+  },
+  {
+    "sentence": "Walk straight ahead.",
+    "raw_response": "\n\n🚶➡️🚶\n",
+    "clean_encoding": "🚶➡️🚶"
+  },
+  {
+    "sentence": "Rain was falling on the roof.",
+    "raw_response": "\n\n🌧️💧➡️🏠\n",
+    "clean_encoding": "🌧️💧➡️🏠"
+  },
+  {
+    "sentence": "The ocean looks green.",
+    "raw_response": "\n\n🌊 👀 🟢\n",
+    "clean_encoding": "🌊👀🟢"
+  },
+  {
+    "sentence": "Two birds sit on the branch.",
+    "raw_response": "\n\n🐦🐦 ➡️ 🌳\n",
+    "clean_encoding": "🐦🐦➡️🌳"
+  },
+  {
+    "sentence": "The food is spoiled.",
+    "raw_response": "\n\n🍎 ➡️ 🗑️\n",
+    "clean_encoding": "🍎➡️🗑️"
+  },
+  {
+    "sentence": "The soup tastes salty.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🥣➡️😋🧂\n",
+    "clean_encoding": "🥣➡️😋🧂"
+  },
+  {
+    "sentence": "The speaker plays music.",
+    "raw_response": "\n\n👤 🗣️ 🎶 🎵\n",
+    "clean_encoding": "👤🗣️🎶🎵"
+  },
+  {
+    "sentence": "Is the coffee hot?",
+    "raw_response": "\n\n☕❓🔥\n",
+    "clean_encoding": "☕❓🔥"
+  },
+  {
+    "sentence": "Why is the grass wet?",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n❓ ➡️ 🌿💧❓\n",
+    "clean_encoding": "❓➡️🌿💧❓"
+  },
+  {
+    "sentence": "The metal is hot to touch.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n⚙️🔥✋\n",
+    "clean_encoding": "⚙️🔥✋"
+  },
+  {
+    "sentence": "The park is behind the school.",
+    "raw_response": "\n\n🌳➡️🏫\n",
+    "clean_encoding": "🌳➡️🏫"
+  },
+  {
+    "sentence": "Snow blankets the ground.",
+    "raw_response": "\n\n❄️ ➡️ 🌍\n",
+    "clean_encoding": "❄️➡️🌍"
+  },
+  {
+    "sentence": "The walls are white.",
+    "raw_response": "\n\n🧱 ⬜️ ⚪️\n",
+    "clean_encoding": "🧱⬜️⚪️"
+  },
+  {
+    "sentence": "The recipe needs four eggs.",
+    "raw_response": "\n\n🍳 ➡️ 4 🥚\n",
+    "clean_encoding": "🍳➡️🥚"
+  },
+  {
+    "sentence": "The shoes are worn out.",
+    "raw_response": "\n\n👟 ➡️ 😩\n",
+    "clean_encoding": "👟➡️😩"
+  },
+  {
+    "sentence": "His skin feels warm.",
+    "raw_response": "\n\n👨‍🦰➡️🌡️🔥\n",
+    "clean_encoding": "👨‍🦰➡️🌡️🔥"
+  },
+  {
+    "sentence": "That printer is noisy.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🧍 🖨️ 🔊\n",
+    "clean_encoding": "🧍🖨️🔊"
+  },
+  {
+    "sentence": "Are we there yet?",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n❓ ➡️ 📍❓\n",
+    "clean_encoding": "❓➡️📍❓"
+  },
+  {
+    "sentence": "Which book do you want?",
+    "raw_response": "\n\n📚❓👤📖🤔\n",
+    "clean_encoding": "📚❓👤📖🤔"
+  },
+  {
+    "sentence": "The glass is smooth and transparent.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👤➡️ 🧊 ➡️ ✨ ➕ 👁️\n\n**Explanation of the encoding:**\n\n*   👤 (Person): Represents \"The\" - a general subject.\n*   🧊 (Ice Cube): Represents \"glass\" - a clear, solid object.\n*   ✨ (Sparkles): Represents \"smooth\" - a visual indicator of smoothness.\n*   ➕ (Plus Sign): Represents \"and\" - a conjunction.\n*   👁️ (Eye): Represents \"transparent\" - the ability to see through.\n\nThis encoding prioritizes clarity and a direct mapping between words and emojis, making it easier for another LLM to understand and translate back.\n",
+    "clean_encoding": "👤➡️🧊➡️✨➕👁️👤🧊✨➕👁️"
+  },
+  {
+    "sentence": "Go north on Main Street.",
+    "raw_response": "\n\n🧭⬆️🛣️📍\n",
+    "clean_encoding": "🧭⬆️🛣️📍"
+  },
+  {
+    "sentence": "The air feels humid.",
+    "raw_response": "\n\n🌬️ 💧 😌\n",
+    "clean_encoding": "🌬️💧😌"
+  },
+  {
+    "sentence": "The berries are purple.",
+    "raw_response": "\n\n🍇 ➡️ 💜\n",
+    "clean_encoding": "🍇➡️💜"
+  },
+  {
+    "sentence": "She bought six books.",
+    "raw_response": "\n\n👧➡️🛍️📚📚📚📚📚📚\n",
+    "clean_encoding": "👧➡️🛍️📚📚📚📚📚📚"
+  },
+  {
+    "sentence": "The paper is blank.",
+    "raw_response": "\n\n📜⬜\n",
+    "clean_encoding": "📜⬜"
+  },
+  {
+    "sentence": "The room looks dark.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🏠 ➡️ 🌑\n",
+    "clean_encoding": "🏠➡️🌑"
+  },
+  {
+    "sentence": "The remote controls the TV.",
+    "raw_response": "\n\n📺 ➡️ 🕹️\n",
+    "clean_encoding": "📺➡️🕹️"
+  },
+  {
+    "sentence": "Does it hurt?",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n❓➡️🤕❓\n",
+    "clean_encoding": "❓➡️🤕❓"
+  },
+  {
+    "sentence": "Whose shoes are these?",
+    "raw_response": "\n\n👟❓👤\n",
+    "clean_encoding": "👟❓👤"
+  },
+  {
+    "sentence": "This fabric feels soft.",
+    "raw_response": "\n\n🧵➡️🖐️☁️\n",
+    "clean_encoding": "🧵➡️🖐️☁️"
+  },
+  {
+    "sentence": "The library is across the street.",
+    "raw_response": "\n\n📚➡️ 🚶‍♀️ 🛣️\n",
+    "clean_encoding": "📚➡️🚶‍♀️🛣️"
+  },
+  {
+    "sentence": "Fog fills the valley.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🌫️ ➡️ 🏞️.\n",
+    "clean_encoding": "🌫️➡️🏞️"
+  },
+  {
+    "sentence": "Her dress is pink.",
+    "raw_response": "\n\n👗👚💖\n",
+    "clean_encoding": "👗👚💖"
+  },
+  {
+    "sentence": "The team has eleven players.",
+    "raw_response": "\n\n👨‍👩‍👧‍👦 ➡️ 🔢 1️⃣1️⃣ 🧑‍🤝‍🧑\n",
+    "clean_encoding": "👨‍👩‍👧‍👦➡️🔢️️🧑‍🤝‍🧑"
+  },
+  {
+    "sentence": "The light bulb is broken.",
+    "raw_response": "\n\n💡 💔\n",
+    "clean_encoding": "💡💔"
+  },
+  {
+    "sentence": "The perfume smells strong.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👃💨💪\n",
+    "clean_encoding": "👃💨💪"
+  },
+  {
+    "sentence": "The charger plugs into the wall.",
+    "raw_response": "\n\n🧱🔌➡️🚪\n",
+    "clean_encoding": "🧱🔌➡️🚪"
+  },
+  {
+    "sentence": "Is the light on?",
+    "raw_response": "\n\n💡❓\n",
+    "clean_encoding": "💡❓"
+  },
+  {
+    "sentence": "How does this work?",
+    "raw_response": "\n\nHere's my attempt:\n\n❓➡️⚙️❓\n",
+    "clean_encoding": "❓➡️⚙️❓"
+  },
+  {
+    "sentence": "The rock is rough and gray.",
+    "raw_response": "\n\n🧱 ➡️ 🪨 ➕ 🌫️\n",
+    "clean_encoding": "🧱➡️🪨➕🌫️"
+  },
+  {
+    "sentence": "Take the elevator to the third floor.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n⬆️ 🏢 ➡️ ➌ 🏢\n",
+    "clean_encoding": "⬆️🏢➡️➌🏢"
+  },
+  {
+    "sentence": "The temperature dropped quickly.",
+    "raw_response": "\n\n🌡️⬇️💨\n",
+    "clean_encoding": "🌡️⬇️💨"
+  },
+  {
+    "sentence": "The sunset is orange.",
+    "raw_response": "\n\n🌅🟠\n",
+    "clean_encoding": "🌅🟠"
+  },
+  {
+    "sentence": "The box weighs twenty pounds.",
+    "raw_response": "\n\n📦⚖️2️⃣0️⃣ 💱\n",
+    "clean_encoding": "📦⚖️️️💱"
+  },
+  {
+    "sentence": "The tire is flat.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🚗💨⬇️\n",
+    "clean_encoding": "🚗💨⬇️"
+  },
+  {
+    "sentence": "The ice feels cold.",
+    "raw_response": "\n\n🧊 🥶\n",
+    "clean_encoding": "🧊🥶"
+  },
+  {
+    "sentence": "The mouse moves the cursor.",
+    "raw_response": "\n\n🐭➡️🖱️\n",
+    "clean_encoding": "🐭➡️🖱️"
+  },
+  {
+    "sentence": "Can you hear that?",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🙋❓👂➡️❓\n",
+    "clean_encoding": "🙋❓👂➡️❓"
+  },
+  {
+    "sentence": "What time is it?",
+    "raw_response": "\n\n⏰❓\n",
+    "clean_encoding": "❓"
+  },
+  {
+    "sentence": "The flower smells sweet.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🌷👃🍬\n",
+    "clean_encoding": "🌷👃🍬"
+  },
+  {
+    "sentence": "The restaurant is downtown.",
+    "raw_response": "\n\n🏢➡️🏙️.\n",
+    "clean_encoding": "🏢➡️🏙️"
+  },
+  {
+    "sentence": "Lightning flashed across the sky.",
+    "raw_response": "\n\n⚡➡️🌌.\n",
+    "clean_encoding": "⚡➡️🌌"
+  },
+  {
+    "sentence": "The grass is green.",
+    "raw_response": "\n\n🌱 🟩.\n",
+    "clean_encoding": "🌱🟩"
+  },
+  {
+    "sentence": "He ran eight miles.",
+    "raw_response": "\n\n🏃‍♂️ 8 📏\n",
+    "clean_encoding": "🏃‍♂️📏"
+  },
+  {
+    "sentence": "The phone is charging.",
+    "raw_response": "\n\n📱⚡🔋\n",
+    "clean_encoding": "📱⚡🔋"
+  },
+  {
+    "sentence": "The pillow feels soft.",
+    "raw_response": "\n\n🛌☁️😌\n",
+    "clean_encoding": "🛌☁️😌"
+  },
+  {
+    "sentence": "Are your hands clean?",
+    "raw_response": "\n\n🧼❓🤲🧽\n",
+    "clean_encoding": "🧼❓🤲🧽"
+  },
+  {
+    "sentence": "Where are we going?",
+    "raw_response": "\n\n📍❓➡️❓\n",
+    "clean_encoding": "📍❓➡️❓"
+  },
+  {
+    "sentence": "The wood is hard and brown.",
+    "raw_response": "\n\n🌲🪵💪🏽🤎\n",
+    "clean_encoding": "🌲🪵💪🏽🤎"
+  },
+  {
+    "sentence": "Follow the path to the lake.",
+    "raw_response": "\n\n🏞️➡️💧\n",
+    "clean_encoding": "🏞️➡️💧"
+  },
+  {
+    "sentence": "The ground is muddy and wet.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n🌍 ➡️ 💧 🌧️\n",
+    "clean_encoding": "🌍➡️💧🌧️"
+  },
+  {
+    "sentence": "The sky is blue.",
+    "raw_response": "\n\n☁️ ➡️ 🟦.\n",
+    "clean_encoding": "☁️➡️🟦"
+  },
+  {
+    "sentence": "The class has twenty students.",
+    "raw_response": "\n\n👨‍🎓🏫🔢2️⃣0️⃣🧑‍🎓\n",
+    "clean_encoding": "👨‍🎓🏫🔢️️🧑‍🎓"
+  },
+  {
+    "sentence": "The oven is hot.",
+    "raw_response": "\n\n🔥 ➡️ 🌡️\n",
+    "clean_encoding": "🔥➡️🌡️"
+  },
+  {
+    "sentence": "The lemon tastes sour.",
+    "raw_response": "\n\n🍋 ➡️ 👅 🙁\n",
+    "clean_encoding": "🍋➡️👅🙁"
+  },
+  {
+    "sentence": "The button makes a click.",
+    "raw_response": "\n\nHere's my emoji encoding:\n\n👉 🔘 ➡️ 🔊 🖱️\n",
+    "clean_encoding": "👉🔘➡️🔊🖱️"
+  }
+]
